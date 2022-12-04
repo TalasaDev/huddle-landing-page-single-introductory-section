@@ -126,6 +126,11 @@ button:hover{
   text-align: center;
 }
 
+.fab:hover {
+  color:hsl(300, 69%, 71%);
+  border-color: hsl(300, 69%, 71%);
+}
+
 .attribution { 
   font-size: 11px;
   text-align: center;
